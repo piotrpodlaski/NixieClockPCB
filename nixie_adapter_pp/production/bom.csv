@@ -1,0 +1,13 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"H1, H2, H3, H4",MountingHole_3.2mm_M3,4,MountingHole,
+"J1, J2",PinHeader_1x36_P2.54mm_Vertical,2,Conn_01x36,
+N1,nixies-us-IN-3,1,IN-3,
+"N2, N3, N4, N5",nixies-us-IN-14,4,IN-14,
+R1,0805,1,R,
+R2,0805,1,R,
+R3,0805,1,R,
+R4,0805,1,R,
+R5,0805,1,R,
+R6,0805,1,R,
+R7,0805,1,R,
+R8,0805,1,R,

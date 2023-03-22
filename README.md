@@ -1,3 +1,0 @@
-# NixieClockPCB
-
-$x+y$

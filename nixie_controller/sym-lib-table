@@ -1,2 +1,7 @@
 (sym_lib_table
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "TPIC6B595DW")(type "KiCad")(uri "${KIPRJMOD}/TPIC6B595DW.kicad_sym")(options "")(descr ""))
+  (lib (name "TYPE-C-31-M-12")(type "KiCad")(uri "${KIPRJMOD}/TYPE-C-31-M-12.kicad_sym")(options "")(descr ""))
+  (lib (name "SBC847BDW1T1G")(type "KiCad")(uri "${KIPRJMOD}/SBC847BDW1T1G.kicad_sym")(options "")(descr ""))
+  (lib (name "TXB0108PWR")(type "KiCad")(uri "${KIPRJMOD}/TXB0108PWR.kicad_sym")(options "")(descr ""))
 )
